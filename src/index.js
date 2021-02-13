@@ -22,5 +22,5 @@ import App from "./components/App";
 //   </div>,
 //   document.getElementById("root")
 // );
-
+//
 ReactDOM.render(<App />, document.getElementById("root"));
